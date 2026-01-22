@@ -32,7 +32,7 @@ Build a well-structured backend application to study and consolidate core concep
 ---
 
 ## Project structure
-
+```
 📦 root
 ├─ 📁 pages
 │ └─ 📁 api
@@ -55,3 +55,4 @@ Build a well-structured backend application to study and consolidate core concep
 ├─ .gitignore
 ├─ .nvmrc
 └─ README.md
+```
